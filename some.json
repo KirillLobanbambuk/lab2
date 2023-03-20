@@ -2,22 +2,22 @@
   "users": [
     {
       "id": "1",
-      "name": "Кирилл",
+      "name": "Kirill",
       "email": "lobanProduction@gmail.com"
     },
     {
       "id": "2",
-      "name": "Рома",
+      "name": "Roman",
       "email": "romanchick@gmail.com"
     },
     {
       "id": "3",
-      "name": "Илья",
+      "name": "Iliy",
       "email": "ilia@gmail.com"
     },
     {
       "id": "4",
-      "name": "Вика",
+      "name": "Vika",
       "email": "xyz@gmail.com"
     }
   ]
