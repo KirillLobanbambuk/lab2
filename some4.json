@@ -1,0 +1,76 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "name": "Kirill",
+      "email": "lobanProduction@gmail.com",
+      "phone": "+37483927492"
+    },
+    {
+      "id": "2",
+      "name": "Roman",
+      "email": "romanchick@gmail.com",
+      "phone": "+3780392730"
+    },
+    {
+      "id": "3",
+      "name": "Iliy",
+      "email": "ilia@gmail.com",
+      "phone": "+375801408"
+    },
+    {
+      "id": "4",
+      "name": "Vika",
+      "email": "xyz@gmail.com",
+      "phone": "+3752961280"
+    },
+    {
+      "id": "5",
+      "name": "Lesha",
+      "email": "leshaProduction@gmail.com",
+      "phone": "+375098158"
+    },
+    {
+      "id": "6",
+      "name": "Alexey",
+      "email": "alexeichick@gmail.com",
+      "phone": "+3753390568984"
+    },
+    {
+      "id": "7",
+      "name": "Tom",
+      "email": "hardy@gmail.com",
+      "phone": "+372983923489662"
+    },
+    {
+      "id": "8",
+      "name": "BradPitt",
+      "email": "pitt@gmail.com",
+      "phone": "+375339086543"
+    },
+    {
+      "id": "9",
+      "name": "Leonardo",
+      "email": "TMNT@gmail.com",
+      "phone": "+379894322076"
+    },
+    {
+      "id": "10",
+      "name": "Leonardo",
+      "email": "dicaprchick@gmail.com",
+      "phone": "+37483927492"
+    },
+    {
+      "id": "11",
+      "name": "Sonia",
+      "email": "spit@gmail.com",
+      "phone": "+3787432805"
+    },
+    {
+      "id": "12",
+      "name": "Bjarne",
+      "email": "cpp@gmail.com",
+      "phone": "+3753390265342"
+    }
+  ]
+}
